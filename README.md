@@ -46,3 +46,7 @@ python segment/train.py --workers 8 --device 0 --batch 32  --data data.yaml --im
 
 python segment/predict.py --source ../1.jpg --img 640 --device 0 --weights runs/train-seg/gelan-c-seg/weights/best.pt
 
+![1](https://github.com/AarohiSingla/INstance-Segmentatio-Using-YOLOv9/assets/60029146/741b42e1-1add-46e1-8a32-338338a7be02)
+
+
+
